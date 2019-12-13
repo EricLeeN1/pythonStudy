@@ -1,1 +1,1 @@
-print('hello 你好');
+print('hello 你好')
