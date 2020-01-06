@@ -22,5 +22,6 @@ exit()  退出python解释器 ctrl+z 然后enter 或者输入exit()
 3. input()  字符串变量 = input('提示信息：：：')
 4. int(x)  将x转换为一个整数
 5. float(x)  将x转换为一个浮点数
+6. random.randing(a,b) a<x<b
 ```
 
